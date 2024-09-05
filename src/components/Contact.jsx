@@ -30,7 +30,7 @@ const Contact = () => {
           {CONTACT.email}
         </a>
         <a
-          href="/public/Resume.pdf" // Update with the actual path to your resume
+          href="https://resume-portfoliobk.s3.amazonaws.com/Resume.pdf" // Update with the actual path to your resume
           download
           className="mt-8 inline-block rounded bg-orange-700 px-6 py-3 text-white hover:bg-purple-800 transition-colors"
         >
